@@ -21,11 +21,14 @@
 
 I'm a Computer Science undergraduate at **SRM Institute of Science and Technology, Delhi NCR** — building my path as a Full Stack Developer focused on clean, maintainable code and real-world impact.
 
+Through academic projects and hackathons, I've built full-stack applications from the ground up — handling everything from UI design to database architecture. I enjoy turning complex problems into simple, elegant solutions.
+
 ```yaml
 Name     : Piyush Gautam
 Role     : Aspiring Full Stack Developer
+College  : SRM IST, Delhi NCR Campus
 Focus    : Scalable web apps & database-driven systems
-Learning : System Design · DSA · Next.js
+Currently: Learning System Design · DSA · Next.js
 Interests: Hackathons · Open Source · Problem Solving
 ```
 
@@ -47,17 +50,22 @@ Interests: Hackathons · Open Source · Problem Solving
 
 <br/>
 
-## 📊 GitHub Stats
+## 📈 What I'm Up To
+
+- 🔭 &nbsp; Currently working on full-stack projects using **React + Node.js**
+- 🌱 &nbsp; Deepening my skills in **System Design** and **Data Structures & Algorithms**
+- 🤝 &nbsp; Open to **collaborating** on interesting open-source or web projects
+- 💬 &nbsp; Ask me about **JavaScript, Node.js, React, or databases**
+- 📫 &nbsp; Reach me at **piyushgautam00078@gmail.com**
+- ⚡ &nbsp; Fun fact: I enjoy breaking things just to understand how they work
+
+<br/>
+
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pyugt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=1800" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyugt&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" height="160"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Pyugt&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150"/>
+<img src="https://streak-stats.demolab.com?user=Pyugt&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165"/>
 
 </div>
 
@@ -66,5 +74,7 @@ Interests: Hackathons · Open Source · Problem Solving
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
+
+*"First, solve the problem. Then, write the code."*
 
 </div>
