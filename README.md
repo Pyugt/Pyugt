@@ -1,125 +1,95 @@
-# Hey there, I'm **Piyush Gautam** 👋
+<div align="center">
 
-*Building the web, one commit at a time.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=120&section=header&text=Piyush%20Gautam&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+Progress+%F0%9F%9A%80;B.Tech+CS+%40+SRM+Delhi+NCR+%F0%9F%8E%93;Building+Scalable+%26+User-Centric+Apps+%F0%9F%92%BB;Always+Learning%2C+Always+Growing+%E2%9C%A8)](https://git.io/typing-svg)
+<br/>
 
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;B.Tech+CS+%40+SRM+Delhi+NCR;Building+Scalable+Web+Apps;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-gautam-3a2923323)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/_rso_)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushgautam00078@gmail.com)
-[![Profile Views](https://visitcount.itsvg.in/api?id=Pyugt&icon=5&color=6)](https://visitcount.itsvg.in)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-gautam-3a2923323)&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/_rso_)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:piyushgautam00078@gmail.com)&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=Pyugt&style=flat-square&color=58A6FF&label=Profile+Views)
 
 </div>
 
----
+<br/>
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-```javascript
-const piyush = {
-  location:    "Delhi NCR, India 🇮🇳",
-  education:   "B.Tech Computer Science @ SRM IST",
-  focus:       "Full Stack Web Development",
-  currentlyLearning: ["System Design", "DSA", "Next.js"],
-  hobbies:     ["Coding", "Hackathons", "Problem Solving"],
-  goal:        "Building production-ready applications that matter"
-};
+I'm a Computer Science undergraduate at **SRM Institute of Science and Technology, Delhi NCR** — building my path as a Full Stack Developer focused on clean, maintainable code and real-world impact.
+
+```yaml
+Name     : Piyush Gautam
+Role     : Aspiring Full Stack Developer
+Focus    : Scalable web apps & database-driven systems
+Learning : System Design · DSA · Next.js
+Interests: Hackathons · Open Source · Problem Solving
 ```
 
-I'm a CS undergrad passionate about crafting **scalable, efficient, and user-centric** web applications. Through academic projects and hackathons, I've developed a strong foundation in full-stack development — from clean frontend interfaces to robust backend systems and database design.
-
----
+<br/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**
+**Languages**&nbsp;&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+<br/>
 
-**Frontend**
+**Frontend**&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+<br/>
 
-**Backend & Databases**
+**Backend & Databases**&nbsp;&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+<br/>
 
-**Tools & Others**
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+**Tools**&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 </div>
 
----
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pyugt&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyugt&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Pyugt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyugt&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Pyugt&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150"/>
+
+</div>
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Pyugt&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Pyugt&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
 
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pyugt&theme=tokyo-night&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Let's Connect & Build Something Cool!
-
-*"First, solve the problem. Then, write the code."* — John Johnson
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-gautam-3a2923323)
-[![Email](https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushgautam00078@gmail.com)
-
-<br>
-
-*⭐️ If you find my work interesting, feel free to star some repos!*
+*"First, solve the problem. Then, write the code."*
 
 </div>
