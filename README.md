@@ -71,10 +71,8 @@ Interests: Hackathons · Open Source · Problem Solving
 
 <br/>
 
----
-
 <div align="center">
 
-*"First, solve the problem. Then, write the code."*
+---
 
 </div>
