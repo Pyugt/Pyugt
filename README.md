@@ -67,6 +67,4 @@ Interests: Hackathons · Open Source · Problem Solving
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
 
-*"First, solve the problem. Then, write the code."*
-
 </div>
