@@ -11,7 +11,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-gautam-3a2923323)&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/_rso_)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:piyushgautam00078@gmail.com)&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=Pyugt&style=flat-square&color=58A6FF&label=Profile+Views)
 
 </div>
 
